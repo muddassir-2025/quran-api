@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(26, 25, 25);
+}
+#container {
+    background-color: #ecebeb;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    
+    width:90%;
+    max-width: 500px;
+    height: auto;
+    max-height: 80%;;
+
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap:break-word;
+
+    overflow: auto;
+}
+
+
